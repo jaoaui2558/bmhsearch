@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
