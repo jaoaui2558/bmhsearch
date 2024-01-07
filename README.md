@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix Yolo 8.0.206 scale bug (#7821)
