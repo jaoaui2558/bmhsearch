@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add bgr hyperparameter (#9139)
