@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Model typehints Docker fix (#8306)
