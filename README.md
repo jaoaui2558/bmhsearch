@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Resize angle, count, and stage on keypoint number change (#7598)
